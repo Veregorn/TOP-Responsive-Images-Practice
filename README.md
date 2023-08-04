@@ -1,2 +1,2 @@
 # TOP-Responsive-Images-Practice
-A simple website to put in practice responsive images usage
+Art-directed narrow screen/wide screenshot website, using <picture>, and a resolution switching example that uses 'srcset'
