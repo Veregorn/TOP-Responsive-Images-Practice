@@ -12,8 +12,12 @@ body {
 
 header {
     width: 100%;
-    background: url("./resources/header-background.png") no-repeat center;
-    height: 438px;
+    background: url("./resources/todd-diemer-ckfkPwCEMNs-unsplash.jpg") no-repeat center;
+    height: 350px;
+}
+
+main {
+    padding: 20px;
 }
 
 img {
